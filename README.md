@@ -1,2 +1,8 @@
-# 3804ICT-Assignment-2
-The code of the project for course 3804ICT Data Mining
+## 3804ICT Data Mining
+### Griffith University
+
+**Author**: Ken Quach - Kai Sato - Wui Theam Wong
+
+Thank you for your interests :) 
+
+❤️
