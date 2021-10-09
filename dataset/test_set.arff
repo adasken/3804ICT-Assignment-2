@@ -1,0 +1,43 @@
+@relation test_set
+
+@attribute 'Essentials' { t}
+@attribute 'Kitchen' { t}
+@attribute 'Wifi' { t}
+@attribute 'Smoke alarm' { t}
+@attribute 'Washer' { t}
+@attribute 'TV' { t}
+@attribute 'Hangers' { t}
+@attribute 'Iron' { t}
+@attribute 'Heating' { t}
+@attribute 'Hair dryer' { t}
+@attribute 'Shampoo' { t}
+@attribute 'Laptop-friendly workspace' { t}
+@attribute 'Hot water' { t}
+@attribute 'Air conditioning' { t}
+@attribute 'Dryer' { t}
+@attribute 'Dishes and silverware' { t}
+@attribute 'Refrigerator' { t}
+@attribute 'Microwave' { t}
+@attribute 'Stove' { t}
+@attribute 'Cooking basics' { t}
+@attribute 'Oven' { t}
+@attribute 'Free parking on premises' { t}
+@attribute 'Bed linens' { t}
+@attribute 'Dishwasher' { t}
+@attribute 'Free street parking' { t}
+@attribute 'Patio or balcony' { t}
+@attribute 'Fire extinguisher' { t}
+@attribute 'First aid kit' { t}
+@attribute 'Long term stays allowed' { t}
+@attribute 'Extra pillows and blankets' { t}
+
+@data
+t,t,?,?,t
+?,t,?,t,?
+?,t,t,?,?
+t,t,?,t,?
+t,?,t,?,?
+?,t,t,?,?
+t,?,t,?,?
+t,t,t,?,t
+t,t,t,?,?
